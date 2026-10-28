@@ -1,0 +1,49 @@
+[
+  {
+    "pregunta": "¿Cómo se soluciona el problema N+1 al recorrer las relaciones de una entidad?",
+    "documento_id_esperado": "doctrine-php-guia.md#10",
+    "documentos_relevantes": ["doctrine2-readthedocs-io-en-stable.pdf#9.2.24"]
+  },
+  {
+    "pregunta": "How do I implement optimistic locking with a version field?",
+    "documento_id_esperado": "doctrine2-readthedocs-io-en-stable.pdf#9.2.12",
+    "documentos_relevantes": ["doctrine-php-guia.md#12"]
+  },
+  {
+    "pregunta": "¿Qué comandos uso para generar y ejecutar migraciones del esquema?",
+    "documento_id_esperado": "doctrine-php-guia.md#14"
+  },
+  {
+    "pregunta": "What is the difference between the owning side and the inverse side of an association?",
+    "documento_id_esperado": "doctrine2-readthedocs-io-en-stable.pdf#9.2.11",
+    "documentos_relevantes": ["doctrine2-readthedocs-io-en-stable.pdf#9.2.8", "doctrine2-readthedocs-io-en-stable.pdf#9.2.5", "doctrine-php-guia.md#5"]
+  },
+  {
+    "pregunta": "¿Cómo configuro las regiones del Second Level Cache?",
+    "documento_id_esperado": "doctrine2-readthedocs-io-en-stable.pdf#9.2.33"
+  },
+  {
+    "pregunta": "Herencia Single Table con DiscriminatorColumn y DiscriminatorMap",
+    "documento_id_esperado": "doctrine-php-guia.md#6",
+    "documentos_relevantes": ["doctrine2-readthedocs-io-en-stable.pdf#9.2.6"]
+  },
+  {
+    "pregunta": "How do I insert thousands of entities in batches without running out of memory?",
+    "documento_id_esperado": "doctrine2-readthedocs-io-en-stable.pdf#9.2.13",
+    "documentos_relevantes": ["doctrine-php-guia.md#10"]
+  },
+  {
+    "pregunta": "Al migrar de ORM 2 a ORM 3, ¿qué reemplaza a EntityManager::create() y a merge()?",
+    "documento_id_esperado": "doctrine-php-guia.md#18",
+    "documentos_relevantes": ["doctrine-php-guia.md#17"]
+  },
+  {
+    "pregunta": "How can I register a custom DQL function like DATEDIFF?",
+    "documento_id_esperado": "doctrine2-readthedocs-io-en-stable.pdf#9.3.5"
+  },
+  {
+    "pregunta": "lifecycle callbacks PrePersist y PreUpdate en una entidad",
+    "documento_id_esperado": "doctrine2-readthedocs-io-en-stable.pdf#9.2.9",
+    "documentos_relevantes": ["doctrine-php-guia.md#11"]
+  }
+]
